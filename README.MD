@@ -1,5 +1,7 @@
 ## Project Setup
-Project is live on this [link](https://task-manager.rajatgautam.com/)
+Project is live on this [link](https://task-manager.rajatgautam.com/).
+
+
 In order to run the project, setup .env file for reference see .env.example file and set MONGO_URI variable equal to DB connection string.
 Install Node Js and mongodb on your system.
 Run the following command in your terminal 
